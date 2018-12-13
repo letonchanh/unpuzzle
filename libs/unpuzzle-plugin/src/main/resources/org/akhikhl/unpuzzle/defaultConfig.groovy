@@ -162,7 +162,7 @@ unpuzzle {
 
     eclipseMavenGroup = 'eclipse-luna-sr2'
 
-    eclipseMirror = 'http://mirror.netcologne.de'
+    eclipseMirror = 'http://mirror.onet.pl/pub/mirrors'
 
     eclipseArchiveMirror = 'http://archive.eclipse.org'
 
